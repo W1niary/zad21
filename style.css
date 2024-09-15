@@ -6,3 +6,8 @@ table{
 th{
 	border: 1px solid black;
 }
+.centaer th, td {
+  	padding: 10px;
+	background-color: #FDDF95;
+	border:solid 1px black;
+}
